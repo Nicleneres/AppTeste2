@@ -1,0 +1,7 @@
+{
+  "name": "AppNilcle",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
